@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongooseurl = 'mongodb+srv://sugato:passwordstronghai@cluster0.br86gpa.mongodb.net/sugato?retryWrites=true&w=majority';
+const mongooseurl = 'your database url';
 
 const mongodb = async () => {
     try {
